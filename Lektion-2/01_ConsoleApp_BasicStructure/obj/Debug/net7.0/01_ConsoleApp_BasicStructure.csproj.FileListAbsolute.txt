@@ -1,0 +1,14 @@
+C:\education\cms23\c-sharp\Lektion-2\01_ConsoleApp_BasicStructure\bin\Debug\net7.0\01_ConsoleApp_BasicStructure.exe
+C:\education\cms23\c-sharp\Lektion-2\01_ConsoleApp_BasicStructure\bin\Debug\net7.0\01_ConsoleApp_BasicStructure.deps.json
+C:\education\cms23\c-sharp\Lektion-2\01_ConsoleApp_BasicStructure\bin\Debug\net7.0\01_ConsoleApp_BasicStructure.runtimeconfig.json
+C:\education\cms23\c-sharp\Lektion-2\01_ConsoleApp_BasicStructure\bin\Debug\net7.0\01_ConsoleApp_BasicStructure.dll
+C:\education\cms23\c-sharp\Lektion-2\01_ConsoleApp_BasicStructure\bin\Debug\net7.0\01_ConsoleApp_BasicStructure.pdb
+C:\education\cms23\c-sharp\Lektion-2\01_ConsoleApp_BasicStructure\obj\Debug\net7.0\01_ConsoleApp_BasicStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\education\cms23\c-sharp\Lektion-2\01_ConsoleApp_BasicStructure\obj\Debug\net7.0\01_ConsoleApp_BasicStructure.AssemblyInfoInputs.cache
+C:\education\cms23\c-sharp\Lektion-2\01_ConsoleApp_BasicStructure\obj\Debug\net7.0\01_ConsoleApp_BasicStructure.AssemblyInfo.cs
+C:\education\cms23\c-sharp\Lektion-2\01_ConsoleApp_BasicStructure\obj\Debug\net7.0\01_ConsoleApp_BasicStructure.csproj.CoreCompileInputs.cache
+C:\education\cms23\c-sharp\Lektion-2\01_ConsoleApp_BasicStructure\obj\Debug\net7.0\01_ConsoleApp_BasicStructure.dll
+C:\education\cms23\c-sharp\Lektion-2\01_ConsoleApp_BasicStructure\obj\Debug\net7.0\refint\01_ConsoleApp_BasicStructure.dll
+C:\education\cms23\c-sharp\Lektion-2\01_ConsoleApp_BasicStructure\obj\Debug\net7.0\01_ConsoleApp_BasicStructure.pdb
+C:\education\cms23\c-sharp\Lektion-2\01_ConsoleApp_BasicStructure\obj\Debug\net7.0\01_ConsoleApp_BasicStructure.genruntimeconfig.cache
+C:\education\cms23\c-sharp\Lektion-2\01_ConsoleApp_BasicStructure\obj\Debug\net7.0\ref\01_ConsoleApp_BasicStructure.dll
