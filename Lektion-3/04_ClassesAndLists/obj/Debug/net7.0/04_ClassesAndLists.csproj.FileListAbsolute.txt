@@ -1,0 +1,14 @@
+C:\education\cms23\c-sharp\Lektion-3\04_ClassesAndLists\bin\Debug\net7.0\04_ClassesAndLists.exe
+C:\education\cms23\c-sharp\Lektion-3\04_ClassesAndLists\bin\Debug\net7.0\04_ClassesAndLists.deps.json
+C:\education\cms23\c-sharp\Lektion-3\04_ClassesAndLists\bin\Debug\net7.0\04_ClassesAndLists.runtimeconfig.json
+C:\education\cms23\c-sharp\Lektion-3\04_ClassesAndLists\bin\Debug\net7.0\04_ClassesAndLists.dll
+C:\education\cms23\c-sharp\Lektion-3\04_ClassesAndLists\bin\Debug\net7.0\04_ClassesAndLists.pdb
+C:\education\cms23\c-sharp\Lektion-3\04_ClassesAndLists\obj\Debug\net7.0\04_ClassesAndLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\education\cms23\c-sharp\Lektion-3\04_ClassesAndLists\obj\Debug\net7.0\04_ClassesAndLists.AssemblyInfoInputs.cache
+C:\education\cms23\c-sharp\Lektion-3\04_ClassesAndLists\obj\Debug\net7.0\04_ClassesAndLists.AssemblyInfo.cs
+C:\education\cms23\c-sharp\Lektion-3\04_ClassesAndLists\obj\Debug\net7.0\04_ClassesAndLists.csproj.CoreCompileInputs.cache
+C:\education\cms23\c-sharp\Lektion-3\04_ClassesAndLists\obj\Debug\net7.0\04_ClassesAndLists.dll
+C:\education\cms23\c-sharp\Lektion-3\04_ClassesAndLists\obj\Debug\net7.0\refint\04_ClassesAndLists.dll
+C:\education\cms23\c-sharp\Lektion-3\04_ClassesAndLists\obj\Debug\net7.0\04_ClassesAndLists.pdb
+C:\education\cms23\c-sharp\Lektion-3\04_ClassesAndLists\obj\Debug\net7.0\04_ClassesAndLists.genruntimeconfig.cache
+C:\education\cms23\c-sharp\Lektion-3\04_ClassesAndLists\obj\Debug\net7.0\ref\04_ClassesAndLists.dll

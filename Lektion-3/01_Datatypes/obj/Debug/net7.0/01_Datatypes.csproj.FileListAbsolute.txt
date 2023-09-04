@@ -1,0 +1,14 @@
+C:\education\cms23\c-sharp\Lektion-3\01_Datatypes\bin\Debug\net7.0\01_Datatypes.exe
+C:\education\cms23\c-sharp\Lektion-3\01_Datatypes\bin\Debug\net7.0\01_Datatypes.deps.json
+C:\education\cms23\c-sharp\Lektion-3\01_Datatypes\bin\Debug\net7.0\01_Datatypes.runtimeconfig.json
+C:\education\cms23\c-sharp\Lektion-3\01_Datatypes\bin\Debug\net7.0\01_Datatypes.dll
+C:\education\cms23\c-sharp\Lektion-3\01_Datatypes\bin\Debug\net7.0\01_Datatypes.pdb
+C:\education\cms23\c-sharp\Lektion-3\01_Datatypes\obj\Debug\net7.0\01_Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\education\cms23\c-sharp\Lektion-3\01_Datatypes\obj\Debug\net7.0\01_Datatypes.AssemblyInfoInputs.cache
+C:\education\cms23\c-sharp\Lektion-3\01_Datatypes\obj\Debug\net7.0\01_Datatypes.AssemblyInfo.cs
+C:\education\cms23\c-sharp\Lektion-3\01_Datatypes\obj\Debug\net7.0\01_Datatypes.csproj.CoreCompileInputs.cache
+C:\education\cms23\c-sharp\Lektion-3\01_Datatypes\obj\Debug\net7.0\01_Datatypes.dll
+C:\education\cms23\c-sharp\Lektion-3\01_Datatypes\obj\Debug\net7.0\refint\01_Datatypes.dll
+C:\education\cms23\c-sharp\Lektion-3\01_Datatypes\obj\Debug\net7.0\01_Datatypes.pdb
+C:\education\cms23\c-sharp\Lektion-3\01_Datatypes\obj\Debug\net7.0\01_Datatypes.genruntimeconfig.cache
+C:\education\cms23\c-sharp\Lektion-3\01_Datatypes\obj\Debug\net7.0\ref\01_Datatypes.dll

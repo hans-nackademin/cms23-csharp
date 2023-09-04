@@ -1,0 +1,14 @@
+C:\education\cms23\c-sharp\Lektion-3\03_LoopsAndConditions\bin\Debug\net7.0\03_LoopsAndConditions.exe
+C:\education\cms23\c-sharp\Lektion-3\03_LoopsAndConditions\bin\Debug\net7.0\03_LoopsAndConditions.deps.json
+C:\education\cms23\c-sharp\Lektion-3\03_LoopsAndConditions\bin\Debug\net7.0\03_LoopsAndConditions.runtimeconfig.json
+C:\education\cms23\c-sharp\Lektion-3\03_LoopsAndConditions\bin\Debug\net7.0\03_LoopsAndConditions.dll
+C:\education\cms23\c-sharp\Lektion-3\03_LoopsAndConditions\bin\Debug\net7.0\03_LoopsAndConditions.pdb
+C:\education\cms23\c-sharp\Lektion-3\03_LoopsAndConditions\obj\Debug\net7.0\03_LoopsAndConditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\education\cms23\c-sharp\Lektion-3\03_LoopsAndConditions\obj\Debug\net7.0\03_LoopsAndConditions.AssemblyInfoInputs.cache
+C:\education\cms23\c-sharp\Lektion-3\03_LoopsAndConditions\obj\Debug\net7.0\03_LoopsAndConditions.AssemblyInfo.cs
+C:\education\cms23\c-sharp\Lektion-3\03_LoopsAndConditions\obj\Debug\net7.0\03_LoopsAndConditions.csproj.CoreCompileInputs.cache
+C:\education\cms23\c-sharp\Lektion-3\03_LoopsAndConditions\obj\Debug\net7.0\03_LoopsAndConditions.dll
+C:\education\cms23\c-sharp\Lektion-3\03_LoopsAndConditions\obj\Debug\net7.0\refint\03_LoopsAndConditions.dll
+C:\education\cms23\c-sharp\Lektion-3\03_LoopsAndConditions\obj\Debug\net7.0\03_LoopsAndConditions.pdb
+C:\education\cms23\c-sharp\Lektion-3\03_LoopsAndConditions\obj\Debug\net7.0\03_LoopsAndConditions.genruntimeconfig.cache
+C:\education\cms23\c-sharp\Lektion-3\03_LoopsAndConditions\obj\Debug\net7.0\ref\03_LoopsAndConditions.dll
