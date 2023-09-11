@@ -1,0 +1,14 @@
+C:\education\cms23\c-sharp\Lektion-4\05_Classes_Inheritance\bin\Debug\net7.0\05_Classes_Inheritance.exe
+C:\education\cms23\c-sharp\Lektion-4\05_Classes_Inheritance\bin\Debug\net7.0\05_Classes_Inheritance.deps.json
+C:\education\cms23\c-sharp\Lektion-4\05_Classes_Inheritance\bin\Debug\net7.0\05_Classes_Inheritance.runtimeconfig.json
+C:\education\cms23\c-sharp\Lektion-4\05_Classes_Inheritance\bin\Debug\net7.0\05_Classes_Inheritance.dll
+C:\education\cms23\c-sharp\Lektion-4\05_Classes_Inheritance\bin\Debug\net7.0\05_Classes_Inheritance.pdb
+C:\education\cms23\c-sharp\Lektion-4\05_Classes_Inheritance\obj\Debug\net7.0\05_Classes_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\education\cms23\c-sharp\Lektion-4\05_Classes_Inheritance\obj\Debug\net7.0\05_Classes_Inheritance.AssemblyInfoInputs.cache
+C:\education\cms23\c-sharp\Lektion-4\05_Classes_Inheritance\obj\Debug\net7.0\05_Classes_Inheritance.AssemblyInfo.cs
+C:\education\cms23\c-sharp\Lektion-4\05_Classes_Inheritance\obj\Debug\net7.0\05_Classes_Inheritance.csproj.CoreCompileInputs.cache
+C:\education\cms23\c-sharp\Lektion-4\05_Classes_Inheritance\obj\Debug\net7.0\05_Classes_Inheritance.dll
+C:\education\cms23\c-sharp\Lektion-4\05_Classes_Inheritance\obj\Debug\net7.0\refint\05_Classes_Inheritance.dll
+C:\education\cms23\c-sharp\Lektion-4\05_Classes_Inheritance\obj\Debug\net7.0\05_Classes_Inheritance.pdb
+C:\education\cms23\c-sharp\Lektion-4\05_Classes_Inheritance\obj\Debug\net7.0\05_Classes_Inheritance.genruntimeconfig.cache
+C:\education\cms23\c-sharp\Lektion-4\05_Classes_Inheritance\obj\Debug\net7.0\ref\05_Classes_Inheritance.dll

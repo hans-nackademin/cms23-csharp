@@ -1,0 +1,14 @@
+C:\education\cms23\c-sharp\Lektion-4\04_Classes_Example_With_List\bin\Debug\net7.0\04_Classes_Example_With_List.exe
+C:\education\cms23\c-sharp\Lektion-4\04_Classes_Example_With_List\bin\Debug\net7.0\04_Classes_Example_With_List.deps.json
+C:\education\cms23\c-sharp\Lektion-4\04_Classes_Example_With_List\bin\Debug\net7.0\04_Classes_Example_With_List.runtimeconfig.json
+C:\education\cms23\c-sharp\Lektion-4\04_Classes_Example_With_List\bin\Debug\net7.0\04_Classes_Example_With_List.dll
+C:\education\cms23\c-sharp\Lektion-4\04_Classes_Example_With_List\bin\Debug\net7.0\04_Classes_Example_With_List.pdb
+C:\education\cms23\c-sharp\Lektion-4\04_Classes_Example_With_List\obj\Debug\net7.0\04_Classes_Example_With_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\education\cms23\c-sharp\Lektion-4\04_Classes_Example_With_List\obj\Debug\net7.0\04_Classes_Example_With_List.AssemblyInfoInputs.cache
+C:\education\cms23\c-sharp\Lektion-4\04_Classes_Example_With_List\obj\Debug\net7.0\04_Classes_Example_With_List.AssemblyInfo.cs
+C:\education\cms23\c-sharp\Lektion-4\04_Classes_Example_With_List\obj\Debug\net7.0\04_Classes_Example_With_List.csproj.CoreCompileInputs.cache
+C:\education\cms23\c-sharp\Lektion-4\04_Classes_Example_With_List\obj\Debug\net7.0\04_Classes_Example_With_List.dll
+C:\education\cms23\c-sharp\Lektion-4\04_Classes_Example_With_List\obj\Debug\net7.0\refint\04_Classes_Example_With_List.dll
+C:\education\cms23\c-sharp\Lektion-4\04_Classes_Example_With_List\obj\Debug\net7.0\04_Classes_Example_With_List.pdb
+C:\education\cms23\c-sharp\Lektion-4\04_Classes_Example_With_List\obj\Debug\net7.0\04_Classes_Example_With_List.genruntimeconfig.cache
+C:\education\cms23\c-sharp\Lektion-4\04_Classes_Example_With_List\obj\Debug\net7.0\ref\04_Classes_Example_With_List.dll
