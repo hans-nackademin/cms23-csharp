@@ -1,0 +1,14 @@
+C:\education\cms23\c-sharp\Lektion-5\01_Exercise\bin\Debug\net7.0\01_Exercise.exe
+C:\education\cms23\c-sharp\Lektion-5\01_Exercise\bin\Debug\net7.0\01_Exercise.deps.json
+C:\education\cms23\c-sharp\Lektion-5\01_Exercise\bin\Debug\net7.0\01_Exercise.runtimeconfig.json
+C:\education\cms23\c-sharp\Lektion-5\01_Exercise\bin\Debug\net7.0\01_Exercise.dll
+C:\education\cms23\c-sharp\Lektion-5\01_Exercise\bin\Debug\net7.0\01_Exercise.pdb
+C:\education\cms23\c-sharp\Lektion-5\01_Exercise\obj\Debug\net7.0\01_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\education\cms23\c-sharp\Lektion-5\01_Exercise\obj\Debug\net7.0\01_Exercise.AssemblyInfoInputs.cache
+C:\education\cms23\c-sharp\Lektion-5\01_Exercise\obj\Debug\net7.0\01_Exercise.AssemblyInfo.cs
+C:\education\cms23\c-sharp\Lektion-5\01_Exercise\obj\Debug\net7.0\01_Exercise.csproj.CoreCompileInputs.cache
+C:\education\cms23\c-sharp\Lektion-5\01_Exercise\obj\Debug\net7.0\01_Exercise.dll
+C:\education\cms23\c-sharp\Lektion-5\01_Exercise\obj\Debug\net7.0\refint\01_Exercise.dll
+C:\education\cms23\c-sharp\Lektion-5\01_Exercise\obj\Debug\net7.0\01_Exercise.pdb
+C:\education\cms23\c-sharp\Lektion-5\01_Exercise\obj\Debug\net7.0\01_Exercise.genruntimeconfig.cache
+C:\education\cms23\c-sharp\Lektion-5\01_Exercise\obj\Debug\net7.0\ref\01_Exercise.dll
