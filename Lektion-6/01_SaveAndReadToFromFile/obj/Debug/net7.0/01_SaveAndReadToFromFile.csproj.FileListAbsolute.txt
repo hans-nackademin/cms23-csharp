@@ -1,0 +1,17 @@
+C:\education\cms23\c-sharp\Lektion-6\01_SaveAndReadToFromFile\bin\Debug\net7.0\01_SaveAndReadToFromFile.exe
+C:\education\cms23\c-sharp\Lektion-6\01_SaveAndReadToFromFile\bin\Debug\net7.0\01_SaveAndReadToFromFile.deps.json
+C:\education\cms23\c-sharp\Lektion-6\01_SaveAndReadToFromFile\bin\Debug\net7.0\01_SaveAndReadToFromFile.runtimeconfig.json
+C:\education\cms23\c-sharp\Lektion-6\01_SaveAndReadToFromFile\bin\Debug\net7.0\01_SaveAndReadToFromFile.dll
+C:\education\cms23\c-sharp\Lektion-6\01_SaveAndReadToFromFile\bin\Debug\net7.0\01_SaveAndReadToFromFile.pdb
+C:\education\cms23\c-sharp\Lektion-6\01_SaveAndReadToFromFile\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\education\cms23\c-sharp\Lektion-6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.csproj.AssemblyReference.cache
+C:\education\cms23\c-sharp\Lektion-6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\education\cms23\c-sharp\Lektion-6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.AssemblyInfoInputs.cache
+C:\education\cms23\c-sharp\Lektion-6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.AssemblyInfo.cs
+C:\education\cms23\c-sharp\Lektion-6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.csproj.CoreCompileInputs.cache
+C:\education\cms23\c-sharp\Lektion-6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.csproj.CopyComplete
+C:\education\cms23\c-sharp\Lektion-6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.dll
+C:\education\cms23\c-sharp\Lektion-6\01_SaveAndReadToFromFile\obj\Debug\net7.0\refint\01_SaveAndReadToFromFile.dll
+C:\education\cms23\c-sharp\Lektion-6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.pdb
+C:\education\cms23\c-sharp\Lektion-6\01_SaveAndReadToFromFile\obj\Debug\net7.0\01_SaveAndReadToFromFile.genruntimeconfig.cache
+C:\education\cms23\c-sharp\Lektion-6\01_SaveAndReadToFromFile\obj\Debug\net7.0\ref\01_SaveAndReadToFromFile.dll

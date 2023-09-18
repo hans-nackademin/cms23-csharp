@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ThsVExwOu5Y0+b67hZHHkXtvWpkiwy9MIGfYMt0MW4/cSIZABeIPi9MzJMPaTbzHDvhbU6IrdhOmahQNXFsjBQ==",
+  "success": true,
+  "projectFilePath": "C:\\education\\cms23\\c-sharp\\Lektion-6\\01_SaveAndReadToFromFile\\01_SaveAndReadToFromFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
