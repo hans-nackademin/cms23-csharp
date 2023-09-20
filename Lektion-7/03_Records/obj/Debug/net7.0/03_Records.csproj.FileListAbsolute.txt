@@ -1,0 +1,14 @@
+C:\education\cms23\c-sharp\Lektion-7\03_Records\bin\Debug\net7.0\03_Records.exe
+C:\education\cms23\c-sharp\Lektion-7\03_Records\bin\Debug\net7.0\03_Records.deps.json
+C:\education\cms23\c-sharp\Lektion-7\03_Records\bin\Debug\net7.0\03_Records.runtimeconfig.json
+C:\education\cms23\c-sharp\Lektion-7\03_Records\bin\Debug\net7.0\03_Records.dll
+C:\education\cms23\c-sharp\Lektion-7\03_Records\bin\Debug\net7.0\03_Records.pdb
+C:\education\cms23\c-sharp\Lektion-7\03_Records\obj\Debug\net7.0\03_Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\education\cms23\c-sharp\Lektion-7\03_Records\obj\Debug\net7.0\03_Records.AssemblyInfoInputs.cache
+C:\education\cms23\c-sharp\Lektion-7\03_Records\obj\Debug\net7.0\03_Records.AssemblyInfo.cs
+C:\education\cms23\c-sharp\Lektion-7\03_Records\obj\Debug\net7.0\03_Records.csproj.CoreCompileInputs.cache
+C:\education\cms23\c-sharp\Lektion-7\03_Records\obj\Debug\net7.0\03_Records.dll
+C:\education\cms23\c-sharp\Lektion-7\03_Records\obj\Debug\net7.0\refint\03_Records.dll
+C:\education\cms23\c-sharp\Lektion-7\03_Records\obj\Debug\net7.0\03_Records.pdb
+C:\education\cms23\c-sharp\Lektion-7\03_Records\obj\Debug\net7.0\03_Records.genruntimeconfig.cache
+C:\education\cms23\c-sharp\Lektion-7\03_Records\obj\Debug\net7.0\ref\03_Records.dll
