@@ -103,3 +103,8 @@ C:\examples\cms23-csharp\Lektion-8\01_DataLogging.Tests\obj\Debug\net7.0\refint\
 C:\examples\cms23-csharp\Lektion-8\01_DataLogging.Tests\obj\Debug\net7.0\01_DataLogging.Tests.pdb
 C:\examples\cms23-csharp\Lektion-8\01_DataLogging.Tests\obj\Debug\net7.0\01_DataLogging.Tests.genruntimeconfig.cache
 C:\examples\cms23-csharp\Lektion-8\01_DataLogging.Tests\obj\Debug\net7.0\ref\01_DataLogging.Tests.dll
+C:\examples\cms23-csharp\Lektion-8\01_DataLogging.Tests\bin\Debug\net7.0\Castle.Core.dll
+C:\examples\cms23-csharp\Lektion-8\01_DataLogging.Tests\bin\Debug\net7.0\Moq.dll
+C:\examples\cms23-csharp\Lektion-8\01_DataLogging.Tests\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\examples\cms23-csharp\Lektion-8\01_DataLogging.Tests\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\examples\cms23-csharp\Lektion-8\01_DataLogging.Tests\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll

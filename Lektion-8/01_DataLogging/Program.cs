@@ -2,9 +2,12 @@
 using _01_DataLogging.Services;
 
 IFileManager fileManager = new FileManager();
-string filePath = @$"c:\{Guid.NewGuid()}\fakefile.txt";
-string content = "Testing";
+IDataLogger dataLogger = new DataLogger(@"c:\dadafsadfasdf\log.txt", fileManager);
+
+dataLogger.Log("dataaaaaaddadaa");
 
 
-// Act
-var result = fileManager.SaveToFile(filePath, content);
+
+
+
+Console.ReadKey();
