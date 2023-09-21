@@ -18,11 +18,19 @@ public class DataLogger : IDataLogger
 	{
 		try
 		{
+			message = GenerateLogMessage(message);
 			bool result = _fileManager.SaveToFile(_filePath, message);
 			if (result == false)
 				throw new Exception($"Failed to log message: {message} to filepath: {_filePath}.");
-
 		}
 		catch (Exception ex) { Console.WriteLine(ex.Message); }
+	}
+
+	public string GenerateLogMessage(string message)
+	{
+		if (Path.GetExtension(_filePath) == ".txt")
+			message = $"{DateTime.Now}:{message}";
+
+		return message;
 	}
 }

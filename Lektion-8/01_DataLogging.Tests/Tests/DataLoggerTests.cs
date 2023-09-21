@@ -1,5 +1,6 @@
 ﻿using _01_DataLogging.Interfaces;
 using _01_DataLogging.Services;
+using Microsoft.VisualStudio.TestPlatform.CommunicationUtilities;
 using Moq;
 
 namespace _01_DataLogging.Tests.Tests;
@@ -18,10 +19,11 @@ public class DataLoggerTests
 		IDataLogger dataLogger = new DataLogger(_filePath, mockFileManager.Object);
 
 		// Act
+		string message = $"{DateTime.Now}:{_content}";
 		dataLogger.Log(_content);
 
 		// Assert
-		mockFileManager.Verify(fileManager => fileManager.SaveToFile(_filePath, _content), Times.Once);
+		mockFileManager.Verify(fileManager => fileManager.SaveToFile(_filePath, message), Times.Once);
 	} 
 
 }
