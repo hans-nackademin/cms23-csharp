@@ -1,0 +1,14 @@
+C:\education\cms23\c-sharp\Lektion-9\01_Assignment_Example\bin\Debug\net7.0\01_Assignment_Example.exe
+C:\education\cms23\c-sharp\Lektion-9\01_Assignment_Example\bin\Debug\net7.0\01_Assignment_Example.deps.json
+C:\education\cms23\c-sharp\Lektion-9\01_Assignment_Example\bin\Debug\net7.0\01_Assignment_Example.runtimeconfig.json
+C:\education\cms23\c-sharp\Lektion-9\01_Assignment_Example\bin\Debug\net7.0\01_Assignment_Example.dll
+C:\education\cms23\c-sharp\Lektion-9\01_Assignment_Example\bin\Debug\net7.0\01_Assignment_Example.pdb
+C:\education\cms23\c-sharp\Lektion-9\01_Assignment_Example\obj\Debug\net7.0\01_Assignment_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\education\cms23\c-sharp\Lektion-9\01_Assignment_Example\obj\Debug\net7.0\01_Assignment_Example.AssemblyInfoInputs.cache
+C:\education\cms23\c-sharp\Lektion-9\01_Assignment_Example\obj\Debug\net7.0\01_Assignment_Example.AssemblyInfo.cs
+C:\education\cms23\c-sharp\Lektion-9\01_Assignment_Example\obj\Debug\net7.0\01_Assignment_Example.csproj.CoreCompileInputs.cache
+C:\education\cms23\c-sharp\Lektion-9\01_Assignment_Example\obj\Debug\net7.0\01_Assignment_Example.dll
+C:\education\cms23\c-sharp\Lektion-9\01_Assignment_Example\obj\Debug\net7.0\refint\01_Assignment_Example.dll
+C:\education\cms23\c-sharp\Lektion-9\01_Assignment_Example\obj\Debug\net7.0\01_Assignment_Example.pdb
+C:\education\cms23\c-sharp\Lektion-9\01_Assignment_Example\obj\Debug\net7.0\01_Assignment_Example.genruntimeconfig.cache
+C:\education\cms23\c-sharp\Lektion-9\01_Assignment_Example\obj\Debug\net7.0\ref\01_Assignment_Example.dll
