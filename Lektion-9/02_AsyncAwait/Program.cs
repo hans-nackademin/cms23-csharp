@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using _02_AsyncAwait.Services;
+
+namespace _02_AsyncAwait;
+
+internal class Program
+{
+	public static void Main(string[] args)
+	{
+		MenuService.AddUserMenu();
+		Console.ReadKey();
+	}
+}

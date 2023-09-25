@@ -9,7 +9,7 @@ public class MenuService
 
 	private static readonly ICustomerService customerService = new CustomerService();
 
-	public static async Task AddCustomerMenuAsync()
+	public static void AddCustomerMenu()
 	{
 		ICustomer customer = new Customer();
 
@@ -30,7 +30,7 @@ public class MenuService
 		Console.Write("Stad/Ort: ");
 		customer.Address.City = Console.ReadLine();
 
-		await customerService.AddCustomerAsync(customer);
+		Task.Run(() => customerService.AddCustomerAsync(customer));
 	}
 
 	public static void ViewAllCustomersMenu()
@@ -63,7 +63,7 @@ public class MenuService
 		customerService.RemoveCustomer(email!);
 	}
 
-	public static async Task MainMenuAsync()
+	public static void MainMenu()
 	{
 		do
 		{
@@ -81,7 +81,7 @@ public class MenuService
 			switch (option)
 			{
 				case "1":
-					await AddCustomerMenuAsync();
+					AddCustomerMenu();
 					break;
 
 				case "2":

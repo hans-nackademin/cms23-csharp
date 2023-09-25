@@ -6,6 +6,9 @@ public class FileService
 	{
 		using StreamWriter sw = new StreamWriter(filePath);
 		await sw.WriteLineAsync(content);
+
+		await Task.Delay(10000);
+		Console.WriteLine("File Saved");
 	}
 
 	//public static string ReadFromFile(string filePath)
