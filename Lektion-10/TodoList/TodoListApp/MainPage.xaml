@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:models="clr-namespace:TodoListApp.Models"
+             x:Class="TodoListApp.MainPage">
+
+
+    <Grid RowDefinitions="auto,*" ColumnDefinitions="0.75*, 0.25*" Padding="20,50,20,50" ColumnSpacing="10" RowSpacing="20">
+
+        <Entry x:Name="TodoActivity" Grid.Row="0" Grid.Column="0" Placeholder="Ange aktivitet..." />
+        <Button x:Name="AddButton" Clicked="AddButton_Clicked"  Grid.Row="0" Grid.Column="1" Text="Lägg till" />
+
+        <CollectionView x:Name="CollectionViewTodoList" ItemsSource="{Binding Todos}" Grid.Row="1" Grid.ColumnSpan="2" Margin="0,30,0,0">
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="{x:Type models:Todo}">
+                    <Frame Margin="0,0,0,10">
+                        <Grid ColumnDefinitions="*,auto" >
+                            <Label Grid.Column="0" Text="{Binding Activity}" VerticalOptions="Center" />
+                            <Button x:Name="DeleteButton" Clicked="DeleteButton_Clicked"  Grid.Column="1" Text="Ta bort" VerticalOptions="Center" />
+                        </Grid>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </Grid>
+    
+</ContentPage>

@@ -1,0 +1,1 @@
+C:\education\cms23\c-sharp\Lektion-10\UwpApp\UwpApp.csproj;x64

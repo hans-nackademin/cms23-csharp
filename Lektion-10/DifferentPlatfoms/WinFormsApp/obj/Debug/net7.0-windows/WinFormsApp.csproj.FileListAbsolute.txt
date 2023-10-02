@@ -1,0 +1,16 @@
+C:\education\cms23\c-sharp\Lektion-10\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.exe
+C:\education\cms23\c-sharp\Lektion-10\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.deps.json
+C:\education\cms23\c-sharp\Lektion-10\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.runtimeconfig.json
+C:\education\cms23\c-sharp\Lektion-10\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.dll
+C:\education\cms23\c-sharp\Lektion-10\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.pdb
+C:\education\cms23\c-sharp\Lektion-10\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Form1.resources
+C:\education\cms23\c-sharp\Lektion-10\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.GenerateResource.cache
+C:\education\cms23\c-sharp\Lektion-10\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\education\cms23\c-sharp\Lektion-10\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+C:\education\cms23\c-sharp\Lektion-10\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AssemblyInfo.cs
+C:\education\cms23\c-sharp\Lektion-10\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\education\cms23\c-sharp\Lektion-10\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.dll
+C:\education\cms23\c-sharp\Lektion-10\WinFormsApp\obj\Debug\net7.0-windows\refint\WinFormsApp.dll
+C:\education\cms23\c-sharp\Lektion-10\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.pdb
+C:\education\cms23\c-sharp\Lektion-10\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.genruntimeconfig.cache
+C:\education\cms23\c-sharp\Lektion-10\WinFormsApp\obj\Debug\net7.0-windows\ref\WinFormsApp.dll
