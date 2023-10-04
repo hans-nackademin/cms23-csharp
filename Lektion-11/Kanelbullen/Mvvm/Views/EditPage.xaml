@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodels="clr-namespace:Kanelbullen.Mvvm.ViewModels"
+             x:DataType="viewmodels:EditViewModel"
+             x:Class="Kanelbullen.Mvvm.Views.EditPage"
+             Shell.NavBarIsVisible="False">
+    <Grid RowDefinitions="*, auto" Padding="30">
+        <VerticalStackLayout Grid.Row="0">
+            <Label Text="Förnamn" />
+            <Entry Text="{Binding FirstName}" Margin="0,0,0,20" />
+            <Label Text="Efternamn" />
+            <Entry Text="{Binding LastName}" Margin="0,0,0,20" />
+            <Label Text="E-postadress" />
+            <Entry Text="{Binding Email}" Margin="0,0,0,20" />
+        </VerticalStackLayout>
+
+        <Button Grid.Row="1" Text="Lägg till" Command="{Binding SaveCommand }" />
+    </Grid>
+</ContentPage>

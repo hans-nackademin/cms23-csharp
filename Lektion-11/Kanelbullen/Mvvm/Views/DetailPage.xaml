@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodels="clr-namespace:Kanelbullen.Mvvm.ViewModels"
+             x:DataType="viewmodels:DetailViewModel"
+             x:Class="Kanelbullen.Mvvm.Views.DetailPage"
+             Shell.NavBarIsVisible="False">
+
+    <Grid>
+        <VerticalStackLayout>
+            <Label Text="{Binding FirstName}" />
+            <Label Text="{Binding LastName}" />
+            <Label Text="{Binding Email}" />
+        </VerticalStackLayout>
+    </Grid>
+</ContentPage>

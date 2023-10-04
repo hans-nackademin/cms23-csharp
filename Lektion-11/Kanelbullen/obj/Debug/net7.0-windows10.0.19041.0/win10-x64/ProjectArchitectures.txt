@@ -1,0 +1,1 @@
+C:\education\cms23\c-sharp\Lektion-11\Kanelbullen\Kanelbullen.csproj;x64
