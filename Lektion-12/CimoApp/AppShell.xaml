@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="CimoApp.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:viewmodels="clr-namespace:CimoApp.Mvvm.ViewModels"
+    xmlns:views="clr-namespace:CimoApp.Mvvm.Views"
+    xmlns:local="clr-namespace:CimoApp"
+    Shell.FlyoutBehavior="Disabled">
+
+    <ShellContent
+        BindingContext="{x:Type viewmodels:MainViewModel}"
+        ContentTemplate="{DataTemplate views:MainPage}"
+        Route="MainPage" />
+
+    <ShellContent
+        BindingContext="{x:Type viewmodels:AddViewModel}"
+        ContentTemplate="{DataTemplate views:AddPage}"
+        Route="AddPage" />
+
+    <ShellContent
+        BindingContext="{x:Type viewmodels:EditViewModel}"
+        ContentTemplate="{DataTemplate views:EditPage}"
+        Route="EditPage" />
+
+    <ShellContent
+        BindingContext="{x:Type viewmodels:DetailsViewModel}"
+        ContentTemplate="{DataTemplate views:DetailsPage}"
+        Route="DetailsPage" />
+
+</Shell>

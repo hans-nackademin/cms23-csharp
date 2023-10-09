@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"        
+             xmlns:viewmodels="clr-namespace:CimoApp.Mvvm.ViewModels" 
+             xmlns:models="clr-namespace:CimoApp.Mvvm.Models"
+             x:DataType="{x:Type viewmodels:MainViewModel}"     
+             Shell.NavBarIsVisible="False"
+             x:Class="CimoApp.Mvvm.Views.MainPage">
+
+    <Grid RowDefinitions="auto,*" Padding="30" RowSpacing="20">
+        <Button Grid.Row="0" Command="{Binding GoToAddCommand}" Text="+" HorizontalOptions="End" />
+
+        <CollectionView Grid.Row="1" ItemsSource="{Binding Contacts}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="{x:Type models:ContactModel}">
+                    <Grid RowDefinitions="auto,auto" ColumnDefinitions="auto,auto" ColumnSpacing="5">
+                        <Label Grid.Row="0" Grid.Column="0" Text="{Binding FirstName}" />
+                        <Label Grid.Row="0" Grid.Column="1" Text="{Binding LastName}" />
+                        <Label Grid.Row="1" Grid.ColumnSpan="2" Text="{Binding Email}" />
+
+                        <Grid.GestureRecognizers>
+                            <TapGestureRecognizer CommandParameter="{Binding .}" Command="{Binding Path=GoToDetailsCommand, Source={RelativeSource AncestorType={x:Type viewmodels:MainViewModel}}}" />
+                        </Grid.GestureRecognizers>
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        
+    </Grid>
+
+</ContentPage>

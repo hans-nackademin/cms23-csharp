@@ -1,0 +1,1 @@
+C:\education\cms23\c-sharp\Lektion-12\CimoApp\CimoApp.csproj;x64
