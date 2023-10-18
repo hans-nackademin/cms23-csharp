@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewModels="clr-namespace:MauiApp_App.Mvvm.ViewModels"
+             xmlns:models="clr-namespace:Shared.Models;assembly=Shared"
+             x:DataType="{x:Type viewModels:MainPageViewModel}"
+             x:Class="MauiApp_App.MainPage">
+
+    <VerticalStackLayout>
+        <Button Command="{Binding GoToAddCommand}" Text="Add" />
+
+        <CollectionView ItemsSource="{Binding Users}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="{x:Type models:User}">
+                    <Grid ColumnDefinitions="auto,auto" ColumnSpacing="5" Margin="10">
+                        <Label Grid.Column="0" Text="{Binding FirstName}" />
+                        <Label Grid.Column="1" Text="{Binding LastName}" />
+
+                        <Grid.GestureRecognizers>
+                            <TapGestureRecognizer CommandParameter="{Binding .}" Command="{Binding Path=GoToDetailsCommand, Source={RelativeSource AncestorType={x:Type viewModels:MainPageViewModel}}}" />
+                        </Grid.GestureRecognizers>
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </VerticalStackLayout>
+
+
+</ContentPage>

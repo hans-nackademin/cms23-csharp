@@ -1,0 +1,63 @@
+is_global = true
+build_property.TargetFramework = net7.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = MauiApp_App
+build_property.ProjectDir = C:\education\cms23\c-sharp\Lektion-13\MauiApp_App\
+
+[C:/education/cms23/c-sharp/Lektion-13/MauiApp_App/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp_App.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/education/cms23/c-sharp/Lektion-13/MauiApp_App/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp_App.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/education/cms23/c-sharp/Lektion-13/MauiApp_App/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp_App.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/education/cms23/c-sharp/Lektion-13/MauiApp_App/Mvvm/Views/AddPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp_App.Mvvm.Views.AddPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Mvvm\Views\AddPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Mvvm\Views\AddPage.xaml
+
+[C:/education/cms23/c-sharp/Lektion-13/MauiApp_App/Mvvm/Views/DetailsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp_App.Mvvm.Views.DetailsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Mvvm\Views\DetailsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Mvvm\Views\DetailsPage.xaml
+
+[C:/education/cms23/c-sharp/Lektion-13/MauiApp_App/Mvvm/Views/EditPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp_App.Mvvm.Views.EditPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Mvvm\Views\EditPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Mvvm\Views\EditPage.xaml
+
+[C:/education/cms23/c-sharp/Lektion-13/MauiApp_App/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp_App.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/education/cms23/c-sharp/Lektion-13/MauiApp_App/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp_App.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

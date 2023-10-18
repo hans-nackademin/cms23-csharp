@@ -7,8 +7,14 @@
         <member name="T:Kanelbullen.Mvvm.ViewModels.DetailViewModel">
             <inheritdoc/>
         </member>
-        <member name="P:Kanelbullen.Mvvm.ViewModels.DetailViewModel.Member">
-            <inheritdoc cref="F:Kanelbullen.Mvvm.ViewModels.DetailViewModel.member"/>
+        <member name="P:Kanelbullen.Mvvm.ViewModels.DetailViewModel.FirstName">
+            <inheritdoc cref="F:Kanelbullen.Mvvm.ViewModels.DetailViewModel.firstName"/>
+        </member>
+        <member name="P:Kanelbullen.Mvvm.ViewModels.DetailViewModel.LastName">
+            <inheritdoc cref="F:Kanelbullen.Mvvm.ViewModels.DetailViewModel.lastName"/>
+        </member>
+        <member name="P:Kanelbullen.Mvvm.ViewModels.DetailViewModel.Email">
+            <inheritdoc cref="F:Kanelbullen.Mvvm.ViewModels.DetailViewModel.email"/>
         </member>
         <member name="T:Kanelbullen.Mvvm.ViewModels.EditViewModel">
             <inheritdoc/>
@@ -55,9 +61,6 @@
             for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
             </summary>
         </member>
-        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Member">
-            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Member" generated properties.</summary>
-        </member>
         <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.FirstName">
             <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "FirstName" generated properties.</summary>
         </member>
@@ -75,9 +78,6 @@
             A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
             for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
             </summary>
-        </member>
-        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Member">
-            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Member" generated properties.</summary>
         </member>
         <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.FirstName">
             <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "FirstName" generated properties.</summary>

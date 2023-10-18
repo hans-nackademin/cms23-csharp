@@ -297,7 +297,6 @@ C:\education\cms23\c-sharp\Lektion-11\Kanelbullen\bin\Debug\net7.0-windows10.0.1
 C:\education\cms23\c-sharp\Lektion-11\Kanelbullen\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
 C:\education\cms23\c-sharp\Lektion-11\Kanelbullen\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
 C:\education\cms23\c-sharp\Lektion-11\Kanelbullen\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
-C:\education\cms23\c-sharp\Lektion-11\Kanelbullen\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.1123.42427.dll
 C:\education\cms23\c-sharp\Lektion-11\Kanelbullen\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
 C:\education\cms23\c-sharp\Lektion-11\Kanelbullen\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
 C:\education\cms23\c-sharp\Lektion-11\Kanelbullen\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
@@ -323,3 +322,4 @@ C:\education\cms23\c-sharp\Lektion-11\Kanelbullen\obj\Debug\net7.0-windows10.0.1
 C:\education\cms23\c-sharp\Lektion-11\Kanelbullen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\education\cms23\c-sharp\Lektion-11\Kanelbullen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\education\cms23\c-sharp\Lektion-11\Kanelbullen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\education\cms23\c-sharp\Lektion-11\Kanelbullen\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.1223.47720.dll

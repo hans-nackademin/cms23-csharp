@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MauiApp_App</name>
+    </assembly>
+    <members>
+        <member name="T:MauiApp_App.Mvvm.ViewModels.AddPageViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:MauiApp_App.Mvvm.ViewModels.AddPageViewModel.User">
+            <inheritdoc cref="F:MauiApp_App.Mvvm.ViewModels.AddPageViewModel.user"/>
+        </member>
+        <member name="F:MauiApp_App.Mvvm.ViewModels.AddPageViewModel.goBackCommand">
+            <summary>The backing field for <see cref="P:MauiApp_App.Mvvm.ViewModels.AddPageViewModel.GoBackCommand"/>.</summary>
+        </member>
+        <member name="P:MauiApp_App.Mvvm.ViewModels.AddPageViewModel.GoBackCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MauiApp_App.Mvvm.ViewModels.AddPageViewModel.GoBack"/>.</summary>
+        </member>
+        <member name="F:MauiApp_App.Mvvm.ViewModels.AddPageViewModel.saveCommand">
+            <summary>The backing field for <see cref="P:MauiApp_App.Mvvm.ViewModels.AddPageViewModel.SaveCommand"/>.</summary>
+        </member>
+        <member name="P:MauiApp_App.Mvvm.ViewModels.AddPageViewModel.SaveCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:MauiApp_App.Mvvm.ViewModels.AddPageViewModel.Save(Shared.Models.User)"/>.</summary>
+        </member>
+        <member name="T:MauiApp_App.Mvvm.ViewModels.DetailsPageViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:MauiApp_App.Mvvm.ViewModels.DetailsPageViewModel.User">
+            <inheritdoc cref="F:MauiApp_App.Mvvm.ViewModels.DetailsPageViewModel.user"/>
+        </member>
+        <member name="F:MauiApp_App.Mvvm.ViewModels.DetailsPageViewModel.goToEditCommand">
+            <summary>The backing field for <see cref="P:MauiApp_App.Mvvm.ViewModels.DetailsPageViewModel.GoToEditCommand"/>.</summary>
+        </member>
+        <member name="P:MauiApp_App.Mvvm.ViewModels.DetailsPageViewModel.GoToEditCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:MauiApp_App.Mvvm.ViewModels.DetailsPageViewModel.GoToEdit(System.String)"/>.</summary>
+        </member>
+        <member name="F:MauiApp_App.Mvvm.ViewModels.DetailsPageViewModel.goBackCommand">
+            <summary>The backing field for <see cref="P:MauiApp_App.Mvvm.ViewModels.DetailsPageViewModel.GoBackCommand"/>.</summary>
+        </member>
+        <member name="P:MauiApp_App.Mvvm.ViewModels.DetailsPageViewModel.GoBackCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MauiApp_App.Mvvm.ViewModels.DetailsPageViewModel.GoBack"/>.</summary>
+        </member>
+        <member name="T:MauiApp_App.Mvvm.ViewModels.EditPageViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:MauiApp_App.Mvvm.ViewModels.EditPageViewModel.User">
+            <inheritdoc cref="F:MauiApp_App.Mvvm.ViewModels.EditPageViewModel.user"/>
+        </member>
+        <member name="F:MauiApp_App.Mvvm.ViewModels.EditPageViewModel.goBackCommand">
+            <summary>The backing field for <see cref="P:MauiApp_App.Mvvm.ViewModels.EditPageViewModel.GoBackCommand"/>.</summary>
+        </member>
+        <member name="P:MauiApp_App.Mvvm.ViewModels.EditPageViewModel.GoBackCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MauiApp_App.Mvvm.ViewModels.EditPageViewModel.GoBack"/>.</summary>
+        </member>
+        <member name="F:MauiApp_App.Mvvm.ViewModels.EditPageViewModel.saveCommand">
+            <summary>The backing field for <see cref="P:MauiApp_App.Mvvm.ViewModels.EditPageViewModel.SaveCommand"/>.</summary>
+        </member>
+        <member name="P:MauiApp_App.Mvvm.ViewModels.EditPageViewModel.SaveCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:MauiApp_App.Mvvm.ViewModels.EditPageViewModel.Save(Shared.Models.User)"/>.</summary>
+        </member>
+        <member name="T:MauiApp_App.Mvvm.ViewModels.MainPageViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:MauiApp_App.Mvvm.ViewModels.MainPageViewModel.Users">
+            <inheritdoc cref="F:MauiApp_App.Mvvm.ViewModels.MainPageViewModel.users"/>
+        </member>
+        <member name="F:MauiApp_App.Mvvm.ViewModels.MainPageViewModel.goToDetailsCommand">
+            <summary>The backing field for <see cref="P:MauiApp_App.Mvvm.ViewModels.MainPageViewModel.GoToDetailsCommand"/>.</summary>
+        </member>
+        <member name="P:MauiApp_App.Mvvm.ViewModels.MainPageViewModel.GoToDetailsCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:MauiApp_App.Mvvm.ViewModels.MainPageViewModel.GoToDetails(System.String)"/>.</summary>
+        </member>
+        <member name="F:MauiApp_App.Mvvm.ViewModels.MainPageViewModel.goToAddCommand">
+            <summary>The backing field for <see cref="P:MauiApp_App.Mvvm.ViewModels.MainPageViewModel.GoToAddCommand"/>.</summary>
+        </member>
+        <member name="P:MauiApp_App.Mvvm.ViewModels.MainPageViewModel.GoToAddCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MauiApp_App.Mvvm.ViewModels.MainPageViewModel.GoToAdd"/>.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.User">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "User" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Users">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Users" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.User">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "User" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Users">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Users" generated properties.</summary>
+        </member>
+    </members>
+</doc>
